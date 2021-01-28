@@ -1,12 +1,6 @@
 package 常见的3个接口;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-17
- * Time: 12:05
- */
+
 
 /**
  * 1、如何拷贝对象？？
