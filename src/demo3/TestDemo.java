@@ -1,12 +1,5 @@
 package demo3;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-17
- * Time: 10:42
- */
 
 /**
  *
