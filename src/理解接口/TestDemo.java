@@ -1,12 +1,6 @@
 package 理解接口;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-17
- * Time: 11:09
- */
+
 
 interface IFlying {
     void fly();
