@@ -2,13 +2,6 @@ package 常见的3个接口;
 
 import java.util.Arrays;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-17
- * Time: 11:40
- */
 
 /**
  * 对于 Comparable接口来说  一般是用在类的内部的
