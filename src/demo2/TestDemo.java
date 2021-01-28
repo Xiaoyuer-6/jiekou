@@ -1,12 +1,6 @@
 package demo2;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-17
- * Time: 10:17
- */
+
 
 /**
  * 抽象类：包含抽象方法的类  抽象类
