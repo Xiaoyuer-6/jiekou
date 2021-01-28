@@ -1,12 +1,6 @@
 package demo1;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-17
- * Time: 9:24
- */
+
 class Shape {
     public void draw() {
 
