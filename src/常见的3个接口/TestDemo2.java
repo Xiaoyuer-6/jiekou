@@ -2,13 +2,6 @@ package 常见的3个接口;
 
 import java.util.Arrays;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-17
- * Time: 11:53
- */
 
 /**
  * 比较器：一般用在类外了
