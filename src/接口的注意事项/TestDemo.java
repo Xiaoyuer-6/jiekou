@@ -1,12 +1,6 @@
 package 接口的注意事项;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-17
- * Time: 10:57
- */
+
 interface A {
     void funcA();
 }
