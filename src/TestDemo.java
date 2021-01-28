@@ -1,10 +1,4 @@
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-17
- * Time: 8:38
- */
+
 class Animal {
     public String name;
 
